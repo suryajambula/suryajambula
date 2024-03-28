@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suryajambula
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Engineering
-- 📫 How to reach me suryareddyj6@gmail.com
+- 📫 How to reach me suryajambula@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
